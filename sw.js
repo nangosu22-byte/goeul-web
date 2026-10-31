@@ -1,4 +1,4 @@
-const NAME = 'goeul-0.10.0-mvwnffmh';
+const NAME = 'goeul-0.11.0-mvwp866x';
 const FILES = [
  "./",
  "apple-touch-icon.png",
