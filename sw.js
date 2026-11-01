@@ -1,4 +1,4 @@
-const NAME = 'goeul-0.12.1-mvxbqzsr';
+const NAME = 'goeul-0.12.2-mvxdfb7f';
 const FILES = [
  "./",
  "apple-touch-icon.png",
